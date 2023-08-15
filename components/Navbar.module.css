@@ -1,0 +1,38 @@
+.navbar {
+  padding: 10px 0;
+  width: 100%;
+}
+
+.navList {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  padding: 0;
+}
+
+.navItem {
+  margin: 0 15px;
+}
+
+.navLink {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  transition: color 0.3s ease;
+}
+
+.navLink:hover {
+  color: #ff6b6b;
+}
+
+/* Optional: Center the Navbar content horizontally */
+.navbarContent {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}

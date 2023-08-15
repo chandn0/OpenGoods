@@ -1,0 +1,38 @@
+
+    [
+    {
+      "title": "Revoke Your Token Approvals on Over 40 Networks | Revoke.cash",
+      "imageUrl": "https://revoke.cash/assets/images/revoke-card.png",
+      "description": "Take back control of your wallet and stay safe by revoking token approvals and permissions you granted on Ethereum and over 40 other networks.",
+      "githubLink": "https://github.com/RevokeCash/revoke.cash",
+      "websiteLink":"https://revoke.cash/"
+    },
+    {
+      "title": "Geo Web: Public Good Augmented Reality Network ",
+      "imageUrl": "https://uploads-ssl.webflow.com/5f8b34b0e6d64d9a87a21740/62d5e6643d4929842ce66b7e_Geo%20Web%20Open%20Graph%20Banner.png",
+      "description": "The Geo Web is a fair property rights system that creates a global consensus for anchoring digital media to physical locations.",
+      "githubLink": "https://github.com/Geo-Web-Project",
+      "websiteLink":"https://www.geoweb.network/"
+    },
+    {
+      "title": "Lenster",
+      "imageUrl": "https://static-assets.lenster.xyz/images/og/logo.jpeg",
+      "description": "Lenster is a decentralized, and permissionless social media app built with Lens Protocol ",
+      "githubLink": "https://github.com/lensterxyz/lenster",
+      "websiteLink":"https://lenster.xyz/"
+    },
+    {
+      "title": "Ethereum-org-website",
+      "imageUrl": "https://ethereum.org/static/28214bb68eb5445dcb063a72535bc90c/0f3ee/hero.png",
+      "description": "Ethereum.org is a primary online resource for the Ethereum community. (by ethereum)",
+      "githubLink": "https://github.com/ethereum/ethereum-org-website",
+      "websiteLink":"https://ethereum.org/"
+    },
+    {
+      "title": "DeFiHackLabs",
+      "imageUrl": "https://via.placeholder.com/150",
+      "description": "Reproduce DeFi hacked incidents using Foundry. (by SunWeb3Sec)",
+      "githubLink": "https://github.com/SunWeb3Sec/DeFiHackLabs",
+      "websiteLink":"https://github.com/SunWeb3Sec/DeFiHackLabs"
+    }
+  ]
