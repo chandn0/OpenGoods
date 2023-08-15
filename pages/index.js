@@ -18,7 +18,7 @@ export default function Home() {
       <div className={styles.container}>
         <Head>
           <title>OpenGoods</title>
-          <link rel="icon" href="/favicon.ico" />
+          <link rel="icon" href="/PG-parachute+copy.png" />
         </Head>
         <Navbar />
         <div>
@@ -34,6 +34,10 @@ export default function Home() {
             rel="noopener noreferrer"
           >
             Made by Chandan
+          </a>
+
+          <a href="https://github.com/0xchandanb/OpenGoods" target="_blank">
+            Git Repo
           </a>
         </footer>
 

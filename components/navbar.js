@@ -7,7 +7,7 @@ const Navbar = () => {
   return (
     <nav className={styles.navbar}>
       <div className={styles.navbarContent}>
-        Digital Public Goods
+        OpenGoods
         <ul className={styles.navList}>
           <li className={styles.navItem}>
             <a
