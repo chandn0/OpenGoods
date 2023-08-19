@@ -26,7 +26,7 @@ export default function Home() {
       <div className={styles.container}>
         <Head>
           <title>OpenGoods</title>
-          <link rel="icon" href="/PG-parachute+copy.png" />
+          <link rel="icon" href="/cargo.png" />
         </Head>
         {/* <Navbar /> */}
         <br />
