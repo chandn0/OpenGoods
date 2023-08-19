@@ -9,7 +9,7 @@ import { useEffect, useState } from "react";
 import { useTheme } from "next-themes";
 import PublicGoodsList from "../components/PublicGoodsList";
 import data from "../data/grants.json";
-import Articles from "../components/articles";
+import Articles from "../components/Articles";
 import articles from "../data/articles.json";
 import VideoList from "../components/VideoList";
 import videos from "../data/videos.json";
