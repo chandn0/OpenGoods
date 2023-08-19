@@ -45,7 +45,7 @@
   justify-content: center;
   flex-wrap: wrap;
 
-  max-width: 800px;
+  /* max-width: 800px; */
   margin-top: 3rem;
 }
 
@@ -59,6 +59,7 @@
   border: 1px solid #eaeaea;
   border-radius: 10px;
   transition: color 0.15s ease, border-color 0.15s ease;
+  align-items: center;
 }
 
 .card:hover,
@@ -88,4 +89,59 @@
     width: 100%;
     flex-direction: column;
   }
+}
+
+.btngroup a {
+  background-color: black;
+  padding: 10px 24px; /* Some padding */
+  cursor: pointer; /* Pointer/hand icon */
+  border: none;
+}
+
+.content {
+  text-align: center;
+  font-size: 24px;
+  font-weight: bold;
+  height: 70vh; /* This ensures that the container takes the full viewport height */
+  /* Add any other styling you desire */
+  display: flex;
+  margin-left: 10vh;
+  margin-right: 10vh;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  
+}
+.main {
+  padding: 5rem 0;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.footer {
+  width: 100vh;
+  height: 50px;
+  border-top: 3px solid #eaeaea;
+  display: flex;
+}
+.footer img {
+  margin-left: 0.5rem;
+}
+.footer a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+  padding-right: 20px;
+
+}
+.code {
+  background: #fafafa;
+  border-radius: 5px;
+  padding: 0.75rem;
+  font-size: 1.1rem;
+  font-family: Menlo, Monaco, Lucida Console, Liberation Mono,
+    DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace;
 }

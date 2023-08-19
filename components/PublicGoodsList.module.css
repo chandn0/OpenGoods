@@ -1,0 +1,23 @@
+/* PublicGoodsList.module.css */
+.publicgoodslist {
+    display: flex;
+    flex-direction: column;
+    width: 100vh;
+    margin-left: 0px;
+  }
+  
+  .publicgoodsitem {
+    margin-bottom: 10px;
+  }
+  
+  .publicgoodsitem a {
+    text-decoration: none;
+    /* color: #333; */
+    margin-top: 100px;
+  }
+  
+  .publicgoodsitem a:hover {
+    text-decoration: underline;
+    
+  }
+  
